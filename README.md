@@ -4,8 +4,7 @@ AI for Advanced Manufacturing(AIAM) is a Year 3 Elective Module in TP. It introd
 ## What did I do for my AIAM Project? 
 I worked on the following;
 1) Pipeline
-2) Report
-3) Presentation
+2) Report/Presentation
 
 ## What was the focus of my Pipeline?
 - Predictive maintenance for industrial machinery using sensor telemetry
