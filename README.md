@@ -41,7 +41,6 @@ I worked on the following;
     - DBSCAN (density-based clustering for anomaly regions)
   - Likely supplemented with other outlier detection methods (Isolation Forest, One-Class SVM).
 
-
 ## Summary of Pipeline
 - Raw compressor sensor data ingestion.
 - Data cleaning & redundancy removal.
@@ -49,3 +48,8 @@ I worked on the following;
 - Feature engineering: temporal, statistical, and categorical flags.
 - Scaling & normalization.
 - Anomaly detection modeling (unsupervised).
+
+## Comparative Summary of Models
+<img width="1350" height="738" alt="image" src="https://github.com/user-attachments/assets/3596a52b-fef2-4ee8-a472-a45a420bf838" />
+
+
